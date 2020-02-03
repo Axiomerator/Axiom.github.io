@@ -1,10 +1,5 @@
  ## 欢迎来到Axiomerator的个人网站
 
-
-```markdown
-[Image](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1580723302&di=ee90415f4546ac36249402cc49e2580c&src=http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180430/6f2385badb53432e8e32f873d6f3601b.jpeg)
-```
-
 您好，我是Axiomerator。这是我建立个人网站的第一次尝试。
 
 您可以通过以下方式联系到我：
