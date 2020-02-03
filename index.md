@@ -8,9 +8,13 @@
  - QQ 1181688802
  - 微博 @Axiomerator
  - 酷安 @Axiomerator
- - Bilibili @Axiomerator
- - Telegram +1(213)421-1713
+ - Bilibili [@Axiomerator](https://space.bilibili.com/26226300)
  - Twitter @Axiomerator
+ - Telegram +1(213)421-1713
+
+
+
+### 很抱歉，作者还在初学者阶段，该网页尚未开发完毕，以下为未删除的模板自带教程内容。
 
 You can use the [editor on GitHub](https://github.com/Axiomerator/axiom.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
