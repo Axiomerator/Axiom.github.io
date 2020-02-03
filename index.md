@@ -1,4 +1,4 @@
- ## 欢迎来到Axiomerator的个人网站
+## 欢迎来到Axiomerator的个人网站
 
 您好，我是Axiomerator。这是我建立个人网站的第一次尝试。
 
