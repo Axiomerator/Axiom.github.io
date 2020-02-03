@@ -5,11 +5,12 @@
 您可以通过以下方式联系到我：
 
 ### 联系方式
--QQ 1181688802
--微博 @Axiomerator
--酷安 @Axiomerator
--Telegram +1(213)421-1713
--Twitter @Axiomerator
+ - QQ 1181688802
+ - 微博 @Axiomerator
+ - 酷安 @Axiomerator
+ - Bilibili @Axiomerator
+ - Telegram +1(213)421-1713
+ - Twitter @Axiomerator
 
 You can use the [editor on GitHub](https://github.com/Axiomerator/axiom.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
