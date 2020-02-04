@@ -11,6 +11,8 @@
  - Bilibili [@Axiomerator](https://space.bilibili.com/26226300)
  - Twitter @Axiomerator
  - Telegram +1(213)421-1713
+ - Steam ЯцБУ ЯΩζε
+ - Uplay X-iNF3RNO
 
 ## 自我介绍
 ### 我喜欢的运动
