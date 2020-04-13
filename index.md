@@ -12,7 +12,7 @@
  - Twitter @Axiomerator
  - Telegram +1(213)421-1713
  - Steam ЯцБУ ЯΩζε
- - Uplay X-iNF3RNO
+ - Uplay X-keleton
 
 ## 自我介绍
 
